@@ -70,7 +70,7 @@ export class HomeComponent {
 
  
 
-  isModalOpen = true;
+  isModalOpen = false;
 
   openModal(): void {
     this.isModalOpen = true;
